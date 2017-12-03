@@ -1,0 +1,234 @@
+NODE: 7ddcc070-3f00-4de2-938b-88b4c76e5c4f
+[
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: f22d9e52-8160-43b2-990a-1975723f45c4
+[
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: 7d658879-0992-47ea-9aee-fac704edc61a
+[
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: bcf03aa4-dd44-4f7e-a141-c6a107da4d2a
+[
+  {
+    "size": 64424509440,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: f1f0a5b8-f31b-4578-a3fa-97f752c46564
+[
+  {
+    "size": 64424509440,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: d6d02789-e0ea-4507-8884-db37933ca8b2
+[
+  {
+    "size": 64424509440,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: 86d21a0e-d813-420d-85e6-4f30f5469739
+[
+  {
+    "size": 64424509440,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdb",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdc",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdd",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: 6ca39dc6-3420-40fd-bb24-f806abc0042d
+[
+  {
+    "size": 64424509440,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdb",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdc",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdd",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----
+NODE: 5173e3cf-c920-4f32-a925-2d21cf48d2bd
+[
+  {
+    "size": 64424509440,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdb",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdc",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  },
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sdd",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]
+-----

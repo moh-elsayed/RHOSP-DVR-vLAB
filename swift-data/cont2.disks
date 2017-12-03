@@ -1,0 +1,13 @@
+[
+  {
+    "size": 107374182400,
+    "rotational": true,
+    "vendor": "VMware",
+    "name": "/dev/sda",
+    "wwn_vendor_extension": null,
+    "wwn_with_extension": null,
+    "model": "Virtual disk",
+    "wwn": null,
+    "serial": null
+  }
+]

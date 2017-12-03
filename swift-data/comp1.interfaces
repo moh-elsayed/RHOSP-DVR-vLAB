@@ -1,0 +1,35 @@
+[
+  {
+    "mac_address": "00:50:56:a1:6e:a4",
+    "lldp": [],
+    "product": "0x07b0",
+    "vendor": "0x15ad",
+    "name": "ens192",
+    "has_carrier": true,
+    "switch_port_descr": null,
+    "switch_chassis_descr": null,
+    "ipv4_address": null
+  },
+  {
+    "mac_address": "00:50:56:a1:24:16",
+    "lldp": [],
+    "product": "0x07b0",
+    "vendor": "0x15ad",
+    "name": "ens224",
+    "has_carrier": true,
+    "switch_port_descr": null,
+    "switch_chassis_descr": null,
+    "ipv4_address": null
+  },
+  {
+    "mac_address": "00:50:56:a1:d5:cf",
+    "lldp": [],
+    "product": "0x100f",
+    "vendor": "0x8086",
+    "name": "ens33",
+    "has_carrier": true,
+    "switch_port_descr": null,
+    "switch_chassis_descr": null,
+    "ipv4_address": "192.0.2.113"
+  }
+]
